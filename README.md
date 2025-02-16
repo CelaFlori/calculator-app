@@ -1,3 +1,34 @@
-## Calculator
+#### Problem statement:
+ - Create a simple calculator app.
 
-![image](https://github.com/user-attachments/assets/eac47acf-c35a-48a8-bab7-3222cdef3b19)
+#### Technology Used:
+ - React Js
+ - Java Script
+ - HTML
+ - CSS
+
+ ## Install
+
+To install all the dependences of the project, run the following command:
+
+    git clone https://github.com/shakti1590/React-Calculator.git
+    yarn install
+    yarn start
+
+
+#### Source Code:
+ - Link : https://github.com/shakti1590/React-Calculator
+
+
+#### Deployment Link:
+ - Link : https://react-calculator-omega-navy.vercel.app/
+
+
+
+![Project Preview](./src/calc-app.png)
+
+
+
+<p align="center">
+  Show some :heart: by starring the repository.
+</p>
